@@ -2,7 +2,7 @@ Of course. Here is a complete `README.md` file for your project `obcygnalk`, inc
 
 The name "obcy sygnał" (Polish for "foreign signal") inspired a theme of a service designed to receive, process, or relay data from external sources.
 
-<img src="./Image/logon.webp">
+<img src="./matrix/cec/Image/logon.webp">
 
 ---
 
