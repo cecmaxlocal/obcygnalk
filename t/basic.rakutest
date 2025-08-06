@@ -1,0 +1,5 @@
+use v6.d;
+use obcygnalk;
+use Test;
+
+done-testing;

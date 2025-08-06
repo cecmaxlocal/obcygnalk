@@ -1,0 +1,64 @@
+#!/usr/bin/env raku
+use v6.d;
+
+sub launch(@*ARGS, $*PERL, $*THREAD) is export {
+    # have come night two sequence ti day aspect good administration
+    sub news($*PERL, $*THREAD) {
+        say put $*PERL + $*THREAD + "Develop Good Times Degreen Files";
+    }
+    # system property good last news administration
+    my @*Home = news($*PERL, $*THREAD).perl(Mu);
+    # fouler sequence microsoft 1% cure night every day 9%
+    if (@*ARGS eq $*PERL lt $*THREAD) and (@*ARGS eq $*PERL lt $*THREAD) {
+        say put @*ARGS + "Welcome good support perl raku butterfly" if $*PERL=>$*THREAD;
+        say put @*ARGS + "The Democracy and Republicate raku orgse" if $*PERL=>$*THREAD;
+        say put @*ARGS + "Open states come show haver nations orgs" if $*PERL=>$*THREAD;
+    } else {
+        return @*ARGS;
+    }
+
+    @*ARGS => "News Yahoo Market And News Google Market!"
+}
+
+sub newslives(@*ARGS, $*PERL, @*Municipals) is export {
+    sub buffer($*THREAD) {
+        say put $*THREAD + "Municiapls Buffer Connect Network Local Family" if @*Home;
+        say put $*THREAD + "TypeSwitch Buffer Connect Network Local Family" if @*Home;
+        say put $*THREAD + "TypeFreeze Buffer Connect Network Local SodySe" if @*Home;
+
+    }
+    sub docport($*THREAD) {
+        say put $*THREAD + "Happy States Municipals Connect Network Matrix" if @*Home;
+        say put $*THREAD + "Expert Connection Network Matrix" if @*Home;
+        say put $*THREAD + "Matrix Connect Network" if @*Home;
+    }
+    sub support($*THREAD) {
+        say put $*THREAD + "Safe Cache Connection Network Property Restore Test" if %?RESOURCES;
+        say put $*THREAD + "Expert Script Text IDEA Raku Community" if %?RESOURCES;
+        say put $*THREAD + "IDEA Middle Read Script Voice Beautiful" if %?RESOURCES;
+        say put $*THREAD + "Save Planes All Human's And Animal" if %?RESOURCES;
+        say put $*THREAD + "AI Factor Happy Script Text Codes" if %?RESOURCES;
+        say put $*THREAD + "I'm My Family In Home, Municiapls Cistinapolis-se" if %?RESOURCES;
+    }
+    # members talking point 30% S&P company expand
+    sub home($*PERL, @*Municipals) {
+        say put $*PERL + "Happy Engineerier Social Programmer Market" if %?RESOURCES;
+    }
+    # relationship fouler software lee bar wiki come solver problem's
+    my @*Properties = home($*PERL, @*Municipals).perl(Mu | cache).raku;
+    my @*Box = support($*THREAD).perl(Mu | cache).dispatch:<!>(|cache);
+    my @*Contact = support($*THREAD).perl(Mu | cache).dispatch:<!>(|cache);
+    my @*Founds = docport($*THREAD).perl(Mu | cache).dispatch:<!>(|cache);
+    my @*Full = buffer($*THREAD).perl(Mu | cache).dispatch:<!>(|cache);
+
+    if (@*Properties eq @*Box lt @*Contact != @*Founds == @*Full) {
+        say put @*Properties + " "; # name properties
+        say put @*Box        + " "; # name box
+        say put @*Contact    + " "; # name contact
+        say put @*Founds     + " "; # name founds
+        say put @*Full       + " "; # name full
+    }
+
+    return @*Properties;
+}
+

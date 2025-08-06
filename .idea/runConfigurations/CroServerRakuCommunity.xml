@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CroServerRakuCommunity" type="PERL6_CRO_RUN_CONFIGURATION" factoryName="Cro Service" editBeforeRun="true" singleton="false">
+    <SCRIPT_PATH>$PROJECT_DIR$/bin/cygnalk</SCRIPT_PATH>
+    <SCRIPT_ARGS>raku</SCRIPT_ARGS>
+    <WORKING_DIRECTORY>$PROJECT_DIR$</WORKING_DIRECTORY>
+    <ENV_VARS />
+    <PASS_ENVIRONMENT>false</PASS_ENVIRONMENT>
+    <PERL6_PARAMS />
+    <DEBUG_PORT>9999</DEBUG_PORT>
+    <START_SUSPENDED>false</START_SUSPENDED>
+    <LOG_TIMELINE_EVENTS>await,file,process,socket,start</LOG_TIMELINE_EVENTS>
+    <CRO_DEV_MODE>true</CRO_DEV_MODE>
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/obcygnalk/home/public/localhost/index.mustache.html" />
+    </method>
+  </configuration>
+</component>
